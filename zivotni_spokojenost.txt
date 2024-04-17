@@ -1,0 +1,426 @@
+id: WLB0
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste celkově spokojen(a) se svým životem?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB1
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste spokojen(a) s Vaší životní úrovní?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB2
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste spokojen(a) s Vaším zdravím?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB3
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste spokojen(a) s tím, co se Vám v životě daří dosahovat?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB4
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste spokojen(a) s Vašimi osobními vztahy?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB5
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste spokojen(a) s tím, jak bezpečně se cítíte?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB6
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste spokojen(a) se životem ve společenství, ve kterém žijete?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB7
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste spokojen(a) s Vaší jistotou do budoucnosti?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB8
+tema: Osobní situace
+typ_otazky: scl
+otazka: Jak jste spokojen(a) s Vaším duchovním nebo náboženským životem?
+zcela nespokojen (0)
+velmi silně nespokojen (1)
+výrazně nespokojen (2)
+značně nespokojen (3)
+mírně nespokojen (4)
+neutrálně spokojen (5)
+mírně spokojen (6)
+značně spokojen (7)
+výrazně spokojen (8)
+velmi silně spokojen (9)
+zcela spokojen (10)
+
+id: WLB9
+tema: Životní spokojenost v minulosti
+typ_otazky: scl
+otazka: Kdybych měl znovu prožít svůj život, neměnil bych na něm nic.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB10
+tema: Životní spokojenost v minulosti
+typ_otazky: scl
+otazka: Se svým dosavadním životem jsem spokojený.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB11
+tema: Životní spokojenost v minulosti
+typ_otazky: scl
+otazka: Můj dosavadní život byl pro mě ideální.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB12
+tema: Životní spokojenost v minulosti
+typ_otazky: scl
+otazka: Podmínky mého dosavadního života byly vynikající.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB13
+tema: Životní spokojenost v minulosti
+typ_otazky: scl
+otazka: V minulosti jsem měl všechno důležité, co jsem chtěl.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB14
+tema: Životní spokojenost v součastnosti
+typ_otazky: scl
+otazka: Na svém současném životě bych nic neměnil.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB15
+tema: Životní spokojenost v součastnosti
+typ_otazky: scl
+otazka: Se svým současným životem jsem spokojený.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB16
+tema: Životní spokojenost v součastnosti
+typ_otazky: scl
+otazka: Můj současný život je pro mě ideální.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB17
+tema: Životní spokojenost v součastnosti
+typ_otazky: scl
+otazka: Moje současné životní podmínky jsou vynikající.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB18
+tema: Životní spokojenost v součastnosti
+typ_otazky: scl
+otazka: V současnosti mám všechno důležité, co chci.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB19
+tema: Životní spokojenost v budoucnosti
+typ_otazky: scl
+otazka: V budoucnu nebudu chtít změnit nic.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB20
+tema: Životní spokojenost v budoucnosti
+typ_otazky: scl
+otazka: Se svým budoucím životem budu spokojený.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB20
+tema: Životní spokojenost v budoucnosti
+typ_otazky: scl
+otazka: Očekávám, že můj budoucí život pro mě bude ideální.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB21
+tema: Životní spokojenost v budoucnosti
+typ_otazky: scl
+otazka: Podmínky mého budoucího života budou vynikající.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB22
+tema: Životní spokojenost v budoucnosti
+typ_otazky: scl
+otazka: V budoucnu budu mít všechno důležité, co budu chtít.
+zcela nesouhlasím (0)
+silně nesouhlasím (1)
+spíše nesouhlasím (2)
+neutrálně (3)
+spíše souhlasím (4)
+silně souhlasím (5)
+zcela souhlasím (6)
+
+id: WLB23
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Cítím se vyloučený(á) ze společnosti
+zcela souhlasím (0)
+silně souhlasím (1)
+spíše souhlasím (2)
+spíše nesouhlasím (3)
+zcela nesouhlasím (4)
+
+id: WLB24
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Život je dnes tak složitý, že se v něm jen stěží můžu orientovat.
+zcela souhlasím (0)
+silně souhlasím (1)
+spíše souhlasím (2)
+spíše nesouhlasím (3)
+zcela nesouhlasím (4)
+
+id: WLB25
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Mám pocit, že to, co dělám, není ostatními doceněno.
+zcela souhlasím (0)
+silně souhlasím (1)
+spíše souhlasím (2)
+spíše nesouhlasím (3)
+zcela nesouhlasím (4)
+
+id: WLB26
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Někteří lidé se na mě dívají spatra kvůli mému praconímu zařazení nebo příjmu.
+zcela souhlasím (0)
+silně souhlasím (1)
+spíše souhlasím (2)
+spíše nesouhlasím (3)
+zcela nesouhlasím (4)
+
+id: WLB27
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Jak často se Vám za poslední 12 měsíců stalo, že jste přišel(a) z práce domů příliš unavený(á) na to, abyste mohl(a) dělat některé z domácích prací, které bylo třeba udělat?
+denně (0)
+několikrát týdně (1)
+několikrát za měsíc (2)
+několikrát za rok (3)
+nikdy (4)
+
+id: WLB28
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Jak často se Vám za poslední 12 měsíců stalo, že jste vzhledem k množství času, který věnujete práci, nemohli plnit povinnosti vůči rodině?
+denně (0)
+několikrát týdně (1)
+několikrát za měsíc (2)
+několikrát za rok (3)
+nikdy (4)
+
+id: WLB29
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Jak často se Vám za poslední 12 měsíců stalo, že jste se vzhledem k množství času, který věnujete plnění povinností v rodině, nemohli řádně soustředit na práci?
+denně (0)
+několikrát týdně (1)
+několikrát za měsíc (2)
+několikrát za rok (3)
+nikdy (4)
+
+id: WLB30
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Jak je pravděpodobné, že byste v následujících 6 měsících mohl(a) přijít o svou práci?
+zcela pravděpodobné (0)
+pravděpodobné (1)
+nejisté (2)
+málo pravděpodobné (3)
+zcela nepravděpodobné (4)
+
+id: WLB31
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Kdybyste ztratil(a) zaměstnání nebo z něj musel(a) odejít, jak je pravděpodobné či nepravděpodobné, že si najdete zaměstnání s podobným platem?
+zcela nepravděpodobné (0)
+málo pravděpodobné (1)
+nejisté (2)
+pravděpodobné (3)
+zcela pravděpodobné (4)
+
+id: WLB32
+tema: Spokojenost se zaměstnáním a sociálním postavením
+typ_otazky: scl
+otazka: Do jaké míry jste spokojen(a) se svým současným zaměstnáním?
+zcela nespokojen (0)
+spíše nespokojen (1)
+neutrálně (2)
+spíše spokojen (3)
+zcela spokojen (4)
+
+id: WLB32
+tema: Pracovní situace

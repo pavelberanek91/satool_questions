@@ -1,0 +1,81 @@
+# Designová rozhodnutí
+
+## Typy otázek
+
+### Zkratky
+
+* oca: one correct answer, odpověď zaškrtnutím nejlepší odpovědi
+* mca: multiple correct answer, odpověď zaškrnutním více možností
+* dnd: drag&drop, odpověď seřazením
+* txt: textual, odpověď volným textem
+* scl: scale, odpověď na škále
+* asg: assign, odpověď přiřazováním
+
+## Digitální gramotnost
+
+### Změny v hodnocení
+
+nejsou
+
+### Vyřazené otázky
+
+Excel – pokud by bylo možné (ale nevím, zda bude technicky) mít v excelu sloupec několika desítek čísel a úkolem by bylo najít největší a nejmenší (tedy umět seřadit v excelu) a poté říct průměr z těchto čísel. Tedy buď funkce nebo jen přejet Myší a podívat se.
+ Správná odpověď tedy 3 čísla a hodnocení 1 správné číslo, 5 nesprávné.  
+- problém z technického hlediska, zatím nechceme přidávat soubory ke stažení
+
+Přiřaďte k následujícím e-mailovým scénářům odpovídající odpověď:
+Scénáře:
+1.	Obdržíte e-mail od potenciálního klienta, který projevuje zájem o služby vaší společnosti. Osloví vás křestním jménem a uvede své kontaktní údaje. Jaká je vhodná odpověď?
+3.	Od spolupracovníka obdržíte e-mail s velkou přílohou. Jak byste měli reagovat, když nemůžete přílohu otevřít?
+4.	Všimnete si překlepu v již odeslaném e-mailu. Jaký je nejlepší postup?
+a) Zdvořile informujte odesílatele o problému a požádejte ho o opětovné zaslání přílohy v jiném formátu. - 1
+b) Oslovíte odesílatele "Vážený [jméno příjemce]" a neprodleně odpovíte, poděkujete za zájem a poskytněte další informace o službách vaší společnosti. - 2
+c) Odpovězte do e-mailového vlákna s opravenými informacemi. - 1
+d) Oslovíte odesílatele křestním jménem a neprodleně odpovíte, poděkujete za zájem a poskytněte další informace o službách vaší společnosti. - 1
+f) Zdvořile informujte odesílatele o chybě a požádejte ho, aby předchozí zprávu nebral v úvahu. – 2
+- netuším, jak to technicky spárovat
+
+id: DCXX
+tema: Kyberbezpečnost
+typ_otazky: mca
+otazka: Obdržíte e-mail s přílohou od kolegy, ale nejste si jisti, jak ji otevřít. Co uděláte?
+zavolám na IT Help desk (1)
+požádám o pomoc svého kolegu(yni) (1)
+pokusíte se přílohu otevřít pomocí softwaru, který znáte. (1)
+Vyhledejte na internetu návod, jak otevřít konkrétní typ přílohy. (1)
+- všechny odpovědi mi přijdou správné
+
+id: DCXX
+tema: Kyberbezpečnost
+typ_otazky: mca
+otazka: Přišel jste do práce a zjistili, že váš počítač nefunguje. Jak budete postupovat?
+Zavolám na IT Help desk. - 2
+Zkusím počítač sám(a) restartovat. - 1 
+Zavolám IT experta z naší firmy.  - 2
+Zeptám se svého kolegy, který se v počítačích vyzná - 2
+- všechny odpovědi mi přijdou správné
+
+## Integrace na pracovišti
+
+### Změny v hodnocení
+
+nejsou
+
+### Vyřazené otázky
+
+typ_otazky: scl
+tema: Finanční a sociální bariéry
+otazka: Jak často zažíváte na pracovišti diskriminaci spojenou s vaším věkem? 
+velmi často (0)
+vůbec (4)
+
+## Životní spokojenost
+
+### Změny v hodnocení
+
+* test na životní spokojenost v čase bude přeškálován z 1 až 7 na 0 až 6 (důležitá pro analýzu výsledků v případě srovnání)
+* test na pocity bude přeškálován (0 rozhodně souhlasím, 4 zcela nesouhlasím)
+
+### Vyřazené otázky
+
+nejsou

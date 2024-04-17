@@ -1,0 +1,81 @@
+id: DC0
+tema: Kyberbezpečnost
+typ_otazky: oca
+otazka: Přijde vám následující e-mail, jak budete postupovat?
+kliknu na odkaz, aby byl můj účet stále aktivní (0)
+na e-mail odpovím, abych měl(a) jistotu, že mohu na odkaz kliknout (1)
+neřeším to, počítač mi hlídá antivirový program  (2)
+smažu ho (3)
+poradím se s IT pracovníkem (4)
+imgDC0.png
+
+id: DC1
+tema: Digitální technologie
+typ_otazky: asg
+otazka: Od svého nadřízeného jste dostali za úkol vytvořit jeden z uvedených podkladů. Jaký software na něj využijete. Každý lze přiřadit jen jednou:
+napsat informační e-mail na všechny zaměstnance - Emailový klient typu MS Outlook
+vytvořit prezentaci ke školení - Snímkový software typu MS Powerpoint
+ze zaslaných dat vytvořit přehledné grafy - Tabulkový kalkulátor typu MS Excel
+napsat dopis na úřad - Textový procesor typu MS Word
+
+id: DC2
+tema: Digitální technologie
+typ_otazky: oca
+otazka: Která z následujících webových stránek je oficiální webová stránka společnosti Ryanair?
+rian.air.com (0)
+rynaircom (0)
+ryan.com.air (0)
+rynair.com (1)
+
+id: DC3
+tema: Digitální technologie
+typ_otazky: txt
+otazka: Klikněte na následující odkaz https://www.researchgate.net/profile/Alan-Walker-2/publication/254134678_The_emergence_of_age_management_in_Europe/links/551933220cf21b5da3b7cef3/The-emergence-of-age-management-in-Europe.pdf a zkopírujte pomocí klávesové zkratky větu, která je po této pasáži „Older workers tend to occupy a relatively low status in the labour market, experience discrimination with regard to job recruitment and training and are disproportionately represented among the long term non-employed (Walker 1997; OECD 2004). The most common method of reducing future pension costs—raising pension ages— merely emphasises and extends the exclusion experienced by older workers.“ a vložte ji klávesovou zkratkou do kolonky.
+Therefore, the final reason why age management has emerged in Europe is to tackle age discrimination and ensure that older workers have a fair access to the jobs that are available.
+
+id: DC4
+tema: Digitální technologie
+typ_otazky: oca
+otazka: Ve kterém městě se nachází toto letiště? (využijte vyhledávání na internetu) 
+Stockholm (Švédsko) (0)
+Madrid (Španělsko) (0)
+Berlín (Německo) (0)
+Dublin (Irsko) (1)
+
+id: DC5
+tema: Netiketa
+typ_otazky: asg
+otazka: Co v mailové komunikaci znamenají uvedené zkratky (přiřaďte):
+CC – v kopii
+ASAP – co nejrychleji
+FYI – pro informaci
+Approx. – přibližně
+
+id: DC6
+tema: Kyberbezpečnost
+typ_otazky: dnd
+otazka: Seřaďte hesla podle jejich síly, od nejslabšího po nejsilnější. 
+1 - Heslo123
+2 - Domov1234
+3 - MůjPesRex
+4 - 8vP#2k9&!l
+
+id: DC7
+tema: Digitální technologie
+typ_otazky: mca
+otazka: Odcházíte na dovolenou, v e-mailu je třeba si nastavit informaci o nepřítomnosti. Označte, jaké informace by měla obsahovat:
+Kontakt na kolegu, který Vás zastupuje (1)
+Váš e-mail (0)
+Váš telefon na pracovní pevnou linku (0)
+Dobu Vaší nepřítomnosti (1)
+Číslo vaší kanceláře (0)
+
+id: DC7
+tema: Kyberbezpečnost
+typ_otazky: oca
+otazka: Jakou věc byste měli zkontrolovat před sdílením citlivých informací, jako jsou přihlašovací údaje nebo bankovní informace, na webových stránkách, abyste se ujistili, že jsou bezpečné?
+počet reklam na webové stránce (0)
+logo a celkovou estetiku webové stránky (0)
+zda adresa webové stránky začíná na "https://" a zda je na ní ikona visacího zámku (1)
+popularitu webové stránky na sociálních sítích (0)
+

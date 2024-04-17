@@ -1,0 +1,202 @@
+id: WPI0
+tema: Nedostatek odborných dovedností
+typ_otazky: scl
+otazka: Jak hodnotíte svou konkurenceschopnost na trhu práce ve svém oboru?
+velmi nedostatečně (0)
+zcela konkurenceschopně (4)
+
+id: WPI1
+tema: Nedostatek odborných dovedností
+typ_otazky: scl
+otazka: Jak hodnotíte svoji úroveň dovedností vzhledem k požadavkům trhu práce?
+nedostatečně (0)
+výborně (4)
+
+id: WPI2
+tema: Nedostatek odborných dovedností
+typ_otazky: scl
+otazka: Jak často se učíte novým dovednostem nebo se zdokonalujete ve svém oboru?
+velmi zřídka (0)
+velmi často (4)
+
+id: WPI3
+tema: Nedostatek odborných dovedností
+typ_otazky: scl
+otazka: Jak snadno se přizpůsobujete změnám v technologiích nebo pracovních postupech ve svém oboru? 
+velmi obtížně (0)
+velmi rychle (4)
+
+id: WPI4
+tema: Nedostatek odborných dovedností
+typ_otazky: scl
+otazka: Jak často navštěvujete školení nebo kurzy, které vám pomáhají udržet krok s novými trendy ve vašem oboru?
+vůbec nenavštěvuji (0)
+velmi často (4)
+
+id: WPI5
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak moc jste ochotni dojíždět za prací, případně přijmout práci mimo váš současný region?
+zcela neochoten (0)
+zcela ochoten (4)
+
+id: WPI6
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak se hodnotíte ve své ochotě učit se novým dovednostem nebo technologiím potřebným pro váš obor?
+velmi neochotně (0)
+velmi ochotně (4)
+
+id: WPI7
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak se hodnotíte v komunikaci v cizím jazyce v pracovním prostředí?
+velmi špatně (0)
+velmi dobře (4)
+
+id: WPI8
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak se hodnotíte v ovládání IT dovedností potřebných pro váš obor?
+velmi slabě (0)
+velmi dobře (4)
+
+id: WPI9
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak moc jste ochotni a schopni přizpůsobit se novým pracovním podmínkám a prostředí? 
+vůbec ne (0)
+naprosto (4)
+
+id: WPI10
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak moc jste ochoten pracovat v kolektivu lidí s rozdílnou národností?
+vůbec ne (0)
+naprosto (4)
+
+id: WPI11
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak moc jste ochoten pracovat v kolektivu lidí s rozdílnou sexuální orientací?
+vůbec ne (0)
+naprosto (4)
+
+id: WPI12
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak moc jste ochoten pracovat v kolektivu lidí s rozdílnou etnickou příslušností?
+vůbec ne (0)
+naprosto (4)
+
+id: WPI13
+tema: Flexibilita
+typ_otazky: scl
+otazka: Jak moc jste ochoten pracovat v mladém kolektivu?
+vůbec ne (0)
+naprosto (4)
+
+id: WPI14
+tema: Zdravotní omezení
+typ_otazky: scl
+otazka: Jak moc vás omezuje váš zdravotní stav při plnění pracovních povinností?
+značně (0)
+vůbec (4)
+
+id: WPI15
+tema: Zdravotní omezení
+typ_otazky: scl
+otazka: Jak často se cítíte omezeni zdravotními problémy ve vaší práci? 
+velmi často (0)
+vůbec (4)
+
+id: WPI16
+tema: Zdravotní omezení
+typ_otazky: scl
+otazka: Jak se hodnotíte ve zvládání fyzicky náročných prací?
+velmi špatně (0)
+velmi dobře (4)
+
+id: WPI17
+tema: Zdravotní omezení
+typ_otazky: scl
+otazka: Jak moc vás ovlivňuje zdravotní stav ve vaší schopnosti udržet krok s pracovním tempem a požadavky?
+velmi silně (0)
+vůbec (4)
+
+id: WPI18
+tema: Zdravotní omezení
+typ_otazky: scl
+otazka: Jak často vám zdravotní problémy brání v plnění pracovních povinností?
+velmi často (0)
+téměř nikdy (4)
+
+id: WPI19
+tema: Sebedůvěra a motivace
+typ_otazky: scl
+otazka: Jak moc věříte ve svůj pracovní přínos a hodnotu na trhu práce? 
+vůbec ne (0)
+naprosto (4)
+
+id: WPI20
+tema: Sebedůvěra a motivace
+typ_otazky: scl
+otazka: Jak moc jste motivováni aktivně hledat nové pracovní příležitosti? 
+vůbec ne (0)
+velmi (4)
+
+id: WPI21
+tema: Sebedůvěra a motivace
+typ_otazky: scl
+otazka: Jak moc vás ovlivňuje strach z odmítnutí při hledání zaměstnání? 
+velmi hodně (0)
+vůbec (4)
+
+id: WPI22
+tema: Sebedůvěra a motivace
+typ_otazky: scl
+otazka: Jak se hodnotíte ve schopnosti úspěšně se zapojit do nových pracovních rolí?
+velmi špatně (0)
+velmi dobře (4)
+
+id: WPI23
+tema: Sebedůvěra a motivace
+typ_otazky: scl
+otazka: Jak moc věříte ve svoji schopnost konkurovat mladším uchazečům o stejná pracovní místa? 
+zcela si nevěřím (0)
+naprosto si věřím (4)
+
+id: WPI24
+tema: Finanční a sociální bariéry
+typ_otazky: scl
+otazka: Jak se hodnotíte ohledně vaší finanční situace a jejího vlivu na vaše možnosti hledání práce? 
+velmi negativně (0)
+velmi pozitivně (4)
+
+id: WPI25
+tema: Finanční a sociální bariéry
+typ_otazky: scl
+otazka: Jak moc vás omezuje péče o osobu blízkou nebo jiné rodinné závazky při hledání zaměstnání? 
+zcela omezuje (0)
+vůbec neomezuje (4)
+
+id: WPI26
+tema: Finanční a sociální bariéry
+typ_otazky: scl
+otazka: Jak se hodnotíte ve schopnosti splácet finanční závazky, jako jsou dluhy nebo exekuce, při hledání práce? 
+velmi špatně (0)
+velmi dobře (4)
+
+id: WPI27
+tema: Finanční a sociální bariéry
+typ_otazky: scl
+otazka: Jak moc vás ovlivňují sociální faktory, jako jsou stereotypy spojené s věkem, při hledání zaměstnání? 
+velmi ovlivňují (0)
+vůbec neovlivňují (4)
+
+id: WPI28
+tema: Finanční a sociální bariéry
+typ_otazky: scl
+otazka: Jak se hodnotíte ve schopnosti hledání rovnováhy v pracovním a soukromém životě?
+velmi špatně (0)
+velmi dobře (4)
